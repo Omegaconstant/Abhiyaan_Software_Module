@@ -1,0 +1,17 @@
+<launch>
+	<node name = 'Node1'
+		  pkg = 'task2_py'
+		  type = 'Node1.py'
+		  output = 'screen'
+	/>
+
+	
+	<node name = 'Node2'
+		  pkg = 'task2_py'
+		  type = 'Node2.py'
+		  output = 'screen'
+	 />
+
+</launch>
+
+	

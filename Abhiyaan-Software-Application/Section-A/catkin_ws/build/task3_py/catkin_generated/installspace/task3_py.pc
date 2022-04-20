@@ -1,0 +1,8 @@
+prefix=/home/janmenjaya/Abhiyan-Software-Application/Section-A/catkin_ws/install
+
+Name: task3_py
+Description: Description of task3_py
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs geometry_msgs
